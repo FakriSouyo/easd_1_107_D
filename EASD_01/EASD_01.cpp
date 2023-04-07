@@ -18,3 +18,7 @@
 
 #include <iostream>
 using namespace std;
+
+
+int main() {
+    const int max_data = 22; //The maximum number of data is the sum of the last two digits of your student number (07) + 20 -2 x 15 + 10 + 20
