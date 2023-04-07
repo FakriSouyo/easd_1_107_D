@@ -26,9 +26,9 @@ int main() {
     int n;
     cout << "Masukkan Jumlah Data: ";
     cin >> n;
-    input(fakhri, n);
-    selectionSort(fakhri, n);
-    display(fakhri, n);
+    input (fakhri, n);
+    selectionSort (fakhri, n);
+    display (fakhri, n);
     return 0;
 }
 
