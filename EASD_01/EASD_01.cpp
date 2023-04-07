@@ -13,3 +13,5 @@
 
 //5. Sebutkan dari algorithma yang telah dipelajari mana yang termasuk kedalam Quadratic dan mana yang termasuk kedalam Loglinear
 // Quadratic ada Bubble Sort, Insertion Sort, Selection Sort sedangkan Loglinear ada merge sort dan quick sort
+
+//6. Buatlah sebuah program yang mengimplementasikan selection sort menggunakan bahasan c++.Berikut merupakan algortithma selection sort
