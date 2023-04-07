@@ -10,3 +10,6 @@
 
 //4. Dari 6 algorithma yang sudah dipelajari. Algortihma manakah yang paling efisien untuk mengurutkan data yang ukurannya kecil.Jelaskan kenapa anda memilih itu.
 // Insertion Sort, karena kompleksitas waktu O(n^2)
+
+//5. Sebutkan dari algorithma yang telah dipelajari mana yang termasuk kedalam Quadratic dan mana yang termasuk kedalam Loglinear
+// Quadratic ada Bubble Sort, Insertion Sort, Selection Sort sedangkan Loglinear ada merge sort dan quick sort
