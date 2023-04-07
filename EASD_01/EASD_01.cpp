@@ -49,4 +49,14 @@ void selectionSort(int fakhri[], int n) {
         }
         if (min_index != FA) {
             swap(fakhri[FA], fakhri[min_index]);       //Swap arr[j] with arr[min_index]
+        }
     }
+}
+
+//Code must have Display
+void display(int arr[], int n) {
+    cout << "Sorted array: " << endl;
+    for (int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+}
