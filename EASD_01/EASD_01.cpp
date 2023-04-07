@@ -25,3 +25,4 @@ int main() {
     int fakhri[max_data]; // Change "arr" with your nickname
     int n;
     cout << "Masukkan Jumlah Data: ";
+    cin >> n;
