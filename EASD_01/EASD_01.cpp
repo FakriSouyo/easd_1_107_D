@@ -26,3 +26,12 @@ int main() {
     int n;
     cout << "Masukkan Jumlah Data: ";
     cin >> n;
+}
+
+
+//Code must have Algorithm 
+void input(int arr[], int n) {
+    cout << "Masukkan " << n << " angka:" << endl;
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
