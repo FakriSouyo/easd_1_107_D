@@ -29,9 +29,10 @@ int main() {
 }
 
 
-//Code must have Algorithm 
+//Code must have input
 void input(int arr[], int n) {
     cout << "Masukkan " << n << " angka:" << endl;
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
+
