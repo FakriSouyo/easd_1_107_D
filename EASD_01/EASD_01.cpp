@@ -39,4 +39,6 @@ void input(int arr[], int n) {
 
 }
 //Code must have Algorithm 
-void selectionSort(int fakhri[], int n);
+void selectionSort(int fakhri[], int n) {
+    for (int FA = 0; FA < n - 1; FA++) {                 //Repeat steps 2 and 3 varying j from 0 to n – 2
+        int min_index = FA;                              //Change the "j" in the algorithm to the two initials of your name.(Fakhri Abdillah)
