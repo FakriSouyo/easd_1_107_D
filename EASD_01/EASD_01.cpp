@@ -36,3 +36,7 @@ void input(int arr[], int n) {
         cin >> arr[i];
     }
 
+
+}
+//Code must have Algorithm 
+void selectionSort(int fakhri[], int n);
