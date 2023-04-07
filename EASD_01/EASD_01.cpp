@@ -7,3 +7,6 @@
 
 //3. Sebutkan faktor-faktor yang mempengaruhi mempengaruhi efisiensi suatu program algorithma!
 //Kompleksitas algoritma,Struktur data,Bahasa pemrograman,RAM,ukuran data/input
+
+//4. Dari 6 algorithma yang sudah dipelajari. Algortihma manakah yang paling efisien untuk mengurutkan data yang ukurannya kecil.Jelaskan kenapa anda memilih itu.
+// Insertion Sort, karena kompleksitas waktu O(n^2)
