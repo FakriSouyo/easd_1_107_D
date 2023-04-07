@@ -42,3 +42,11 @@ void input(int arr[], int n) {
 void selectionSort(int fakhri[], int n) {
     for (int FA = 0; FA < n - 1; FA++) {                 //Repeat steps 2 and 3 varying j from 0 to n – 2
         int min_index = FA;                              //Change the "j" in the algorithm to the two initials of your name.(Fakhri Abdillah)
+        for (int i = FA + 1; i < n; i++) {
+            if (fakhri[i] < fakhri[min_index]) {
+                min_index = i;
+            }
+        }
+        if (min_index != FA) {
+            swap(fakhri[FA], fakhri[min_index]);       //Swap arr[j] with arr[min_index]
+    }
