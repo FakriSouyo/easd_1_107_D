@@ -15,3 +15,6 @@
 // Quadratic ada Bubble Sort, Insertion Sort, Selection Sort sedangkan Loglinear ada merge sort dan quick sort
 
 //6. Buatlah sebuah program yang mengimplementasikan selection sort menggunakan bahasan c++.Berikut merupakan algortithma selection sort
+
+#include <iostream>
+using namespace std;
